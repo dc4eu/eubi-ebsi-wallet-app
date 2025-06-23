@@ -83,10 +83,6 @@ internal class WalletCoreConfigImpl(
                         context,
                         R.raw.eudi_pid_issuer_ut,
 
-                        // POTENTIAL playground
-                        R.raw.intermediaire, R.raw.issuer, R.raw.root,
-                        // Czech root (Warsaw)
-                        R.raw.czech_root,
                         // GRNET IACA
                         R.raw.root_ca_grnet, R.raw.iaca
 //                        // https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/256
