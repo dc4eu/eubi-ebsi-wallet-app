@@ -1,10 +1,10 @@
-This is a test fork of the [Android EUDI Wallet](https://github.com/dc4eu/eudi-ebsi-issuer),
+This is a test fork of the [Android EUDI Wallet](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/),
 aiming to ease local test deployments.
 
 ## Installation
 
 1. Clone the issuer fork
-   (https://github.com/gfour/eudi-srv-web-issuing-eudiw-py) to some
+   (https://github.com/dc4eu/eudi-ebsi-issuer) to some
    directory `ISSUER_DIR`. Install the issuer following the instructions
    in that repository.
 
