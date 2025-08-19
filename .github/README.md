@@ -1,4 +1,4 @@
-This is a test fork of the [Android EUDI Wallet](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/),
+This is a test fork of the [Android EUDI Wallet](https://github.com/dc4eu/eudi-ebsi-issuer),
 aiming to ease local test deployments.
 
 ## Installation
